@@ -21,7 +21,7 @@ console.log(r2);
 let r3 = ninjas.concat(['huan', 'crystal']);
 console.log(r3);
 
-let r4 = ninjas.push('Dane'); //return the length of the new array  : alter the original one --> destructive method
+let r4 = ninjas.push('Dane'); //return the length of the new array : alter the original one --> destructive method
 console.log(r4);
 console.log(ninjas);
 
